@@ -1,3 +1,6 @@
+# database file for project
+*.db
+
 # Compiled class file
 *.class
 
