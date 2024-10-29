@@ -138,7 +138,7 @@ public class TableHeap implements ITable {
 		
 		for (int i = 0; i < indexes.length; i++) {
 			if (indexes[i] != null) {
-				// TODO in lab14. 
+				// TODO in index homework
 			}
 		}
 		return true;
@@ -157,7 +157,7 @@ public class TableHeap implements ITable {
 
 		for (int i = 0; i < indexes.length; i++) {
 			if (indexes[i] != null) {
-				// TODO in lab14.
+				// TODO in index homework
 			}
 		}
 		throw new UnsupportedOperationException();
